@@ -1,4 +1,4 @@
-# Klipper with Armbian on Allwinner TVBOX T95 max / Tanix TX6
+# Armbian with Klipper on Allwinner Android TVBOX T95 max / Tanix TX6
 
 Ready2Go klippertv by Giuseppe di Resta
 https://gofile.io/d/apOP6X
