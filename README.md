@@ -1,5 +1,9 @@
 # Armbian with Klipper on Allwinner Android TVBOX T95 max / Tanix TX6
 
+Image of Armbian with Klipper by Giuseppe di Resta
+klippertv.altervista.org
+
+
 Ready2Go klippertv by Giuseppe di Resta
 https://gofile.io/d/apOP6X
 
